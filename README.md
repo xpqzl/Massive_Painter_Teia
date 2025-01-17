@@ -1,6 +1,7 @@
 ||:-MASSIVE_PAINTER-:||
 - ||: MASSIVE-PAINTER :|| - is an experimental interactive audiovisual tool designed to generate and distribute procedurally-created 3D meshes within an XYZ grid matrix. Users can customize colors, adjust parameters, and randomize values using intuitive buttons and sliders, inspiring dynamic and creative exploration. This tool was developed with a playful approach to generative art, simulating the experience of creating art using an imagined "Famiclone" console. Its versatility enables both structured control and unpredictable algorithmic results. The generated visuals results in abstract and pseudo-figurative pixel art.
 
+You can access the tool on the link: https://teia.art/objkt/863724
 
 
 ------KEY FEATURES------------
@@ -82,5 +83,3 @@ Developed using an Intel i7 CPUs and RTX 2070 GPUs, running at 60 FPS.
 
 For best results, use fullscreen mode on your primary monitor.
 
-
-https://teia.art/objkt/863724
